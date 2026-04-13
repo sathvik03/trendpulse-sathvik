@@ -1,0 +1,77 @@
+post_id,title,category,score,num_comments,author,collected_at
+47648828,"Eight years of wanting, three months of building with AI",technology,148,25,brilee,2026-04-05T21:48:51.612058
+47647455,"A Claude Code skill that makes Claude talk like a caveman, cutting token use",technology,353,217,tosh,2026-04-05T21:48:52.754545
+47649117,Someone at BrowserStack Is Leaking Users' Email Address,technology,266,68,m_km,2026-04-05T21:48:54.784248
+47640728,Show HN: A game where you build a GPU,technology,860,171,Jaso1024,2026-04-05T21:49:01.898127
+47650312,A tail-call interpreter in (nightly) Rust,technology,7,0,g0xA52A2A,2026-04-05T21:49:07.130924
+47640380,Apple approves driver that lets Nvidia eGPUs work with Arm Macs,technology,465,209,naves,2026-04-05T21:49:08.120057
+47649811,"Japanese, French and Omani Vessels Cross Strait of Hormuz",technology,85,66,vrganj,2026-04-05T21:49:10.086254
+47645432,Introduction to Computer Music (2009) [pdf],technology,194,60,luu,2026-04-05T21:49:11.248342
+47649742,Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs,technology,5,0,desideratum,2026-04-05T21:49:19.397854
+47640875,"LLM Wiki – example of an ""idea file""",technology,255,77,tamnd,2026-04-05T21:49:22.569904
+47587089,"Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",technology,69,11,steeve,2026-04-05T21:49:24.696302
+47650569,"Microsoft terms say Copilot is for entertainment purposes only, not serious use",technology,37,3,jatins,2026-04-05T21:49:30.689374
+47639779,"Show HN: sllm – Split a GPU node with other developers, unlimited tokens",technology,171,85,jrandolf,2026-04-05T21:49:33.060254
+47637757,Embarrassingly simple self-distillation improves code generation,technology,622,187,Anon84,2026-04-05T21:49:38.174195
+47648529,Right to repair: Why the US military can't fix much of its own equipment,technology,16,4,scythe,2026-04-05T21:49:39.156196
+47633396,Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw,technology,1061,803,firloop,2026-04-05T21:49:40.237004
+47645468,Writing Lisp is AI resistant and I'm sad,technology,74,80,djha-skin,2026-04-05T21:49:41.293249
+47650022,Banray.eu: Raising awareness of the terrible idea that is always-on AI glasses,technology,23,7,ChrisArchitect,2026-04-05T21:49:47.540968
+47590230,Costco sued for seeking refunds on tariffs customers paid,technology,78,68,AdmiralAsshat,2026-04-05T21:49:50.439832
+47649955,Roogle: a Rust API search engine,technology,3,0,fanf2,2026-04-05T21:49:52.374621
+47606244,Training mRNA Language Models Across 25 Species for $165,technology,144,33,maziyar,2026-04-05T21:49:53.386329
+47648226,SpaceX and OpenAI: The Mega IPO Grift [video],technology,14,6,throw0101c,2026-04-05T21:49:58.285864
+47610593,Elizabeth I's Manuscript of Pierre Boaistuau's Histoires Prodigieuses (1559),technology,5,1,benbreen,2026-04-05T21:49:59.295886
+47633855,Claude Code Found a Linux Vulnerability Hidden for 23 Years,technology,403,254,eichin,2026-04-05T21:50:03.349224
+47641788,Iranian missile blitz takes down AWS data centers in Bahrain and Dubai,technology,174,152,lschueller,2026-04-05T21:50:15.009983
+47647788,The threat is comfortable drift toward not understanding what you're doing,worldnews,531,382,zaikunzhang,2026-04-05T21:50:23.900206
+47645817,How Pope Leo is pushing back on divine justification of war,worldnews,53,33,1659447091,2026-04-05T21:51:34.800468
+47615002,Qwen3.6-Plus: Towards real world agents,worldnews,587,208,pretext,2026-04-05T21:53:02.191684
+47615756,Renewables reached nearly 50% of global electricity capacity last year,worldnews,296,148,Growtika,2026-04-05T21:54:06.553169
+47648177,China Edges Past U.S. in Global Approval Ratings,worldnews,5,0,KnuthIsGod,2026-04-05T21:54:54.087892
+47618221,The Australian government has announced gambling advertising reforms,worldnews,133,101,gostsamo,2026-04-05T21:55:35.974249
+47601310,"Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",worldnews,86,120,vrganj,2026-04-05T21:57:47.350391
+47625860,Ubuntu now has higher system hardware requirements than Windows 11,worldnews,24,10,bundie,2026-04-05T21:58:11.952117
+47613668,Show HN: Abject: the first self-aware object runtime,worldnews,10,3,mempko,2026-04-05T21:58:34.158179
+47644726,"Power-washing, pool-cleaning and mowing – playing games about mundane jobs",sports,16,3,andsoitis,2026-04-05T22:00:05.386151
+47639727,"When legal sports betting surges, so do Americans' financial problems",sports,210,137,pseudolus,2026-04-05T22:00:06.307189
+47641615,Sopwith – 1984 Game (2000),sports,96,42,elvis70,2026-04-05T22:00:25.379043
+47633676,"Extra usage credit for Pro, Max, and Team plans",sports,64,61,angst,2026-04-05T22:00:52.000482
+47609564,Steam on Linux Use Skyrocketed Above 5% in March,sports,781,365,hkmaxpro,2026-04-05T22:01:24.300338
+47621557,Show HN: SkiFlee (an HTML5 game),sports,8,9,BSTRhino,2026-04-05T22:06:50.996692
+47648404,My Google Workspace account suspension,science,198,89,zenincognito,2026-04-05T22:07:20.296965
+47611993,VR Realizes the Cyberspace Metaphor,science,15,15,dryadin,2026-04-05T22:08:16.341575
+47629485,A case study in testing with 100+ Claude agents in parallel,science,55,48,thejash,2026-04-05T22:09:36.954225
+47645926,The Spaceballs sequel will be released in April next year,science,7,0,WaitWaitWha,2026-04-05T22:10:23.108367
+47604155,SpaceX files to go public,science,397,574,nutjob2,2026-04-05T22:10:41.031555
+47645240,SpaceX Pushes Back Crucial Starship Test Launch,science,12,8,bookmtn,2026-04-05T22:10:56.694388
+47588349,GitHub Monaspace Case Study,science,146,50,homebrewer,2026-04-05T22:12:12.364836
+47607394,SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025),science,40,6,ruevs,2026-04-05T22:12:27.980137
+47624879,Switzerland hosts 'CERN of semiconductor research',science,34,6,teleforce,2026-04-05T22:14:14.041388
+47609883,"Salomi, a research repo on extreme low-bit transformer quantization",science,12,4,Edward9055,2026-04-05T22:15:19.868228
+47609725,Show HN: NASA Artemis II Mission Timeline Tracker,science,93,17,AustinDev,2026-04-05T22:15:38.499632
+47646504,Show HN: OsintRadar – Curated directory for osint tools,entertainment,49,5,lexalizer,2026-04-05T22:16:19.735765
+47642601,Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown,entertainment,139,21,laszlokorte,2026-04-05T22:16:24.601648
+47639303,"Show HN: I made open source, zero power PCB hackathon badges",entertainment,146,15,kaipereira,2026-04-05T22:16:25.587798
+47613118,Show HN: I built a small app for FSI German Course,entertainment,45,13,syedmsawaid,2026-04-05T22:16:27.585885
+47645025,"Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust",entertainment,82,37,waveywaves,2026-04-05T22:16:45.715406
+47625952,Show HN: I built a frontpage for personal blogs,entertainment,764,192,ramkarthikk,2026-04-05T22:17:18.815939
+47639567,Show HN: TurboQuant-WASM – Google's vector quantization in the browser,entertainment,157,6,teamchong,2026-04-05T22:17:19.885907
+47633947,The FAA’s flight restriction for drones is an attempt to criminalize filming ICE,entertainment,536,183,detaro,2026-04-05T22:17:51.476499
+47642275,"Netflix must refund customers for years of price hikes, Italian court rules",entertainment,60,6,xbmcuser,2026-04-05T22:17:55.586029
+47640770,Show HN: DocMason – Agent Knowledge Base for local complex office files,entertainment,9,0,Jet_Xu,2026-04-05T22:18:18.678282
+47626598,Show HN: ctx – an Agentic Development Environment (ADE),entertainment,50,52,luca-ctx,2026-04-05T22:18:37.600078
+47638532,"Show HN: Ownscribe – local meeting transcription, summarization and search",entertainment,13,0,paberr,2026-04-05T22:18:40.712971
+47630109,Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M,entertainment,190,75,MaximilianEmel,2026-04-05T22:18:44.900616
+47644289,Show HN: Chrome extension prototype for cross-tab/frame network interception,entertainment,4,1,vsromanc,2026-04-05T22:18:52.800058
+47647247,Show HN: ImPlot v1.0 – 6 years of Immediate-mode plotting for Dear ImGui,entertainment,4,2,brenocq,2026-04-05T22:18:53.815568
+47643637,Show HN: Dev Personality Test,entertainment,7,3,4m1rk,2026-04-05T22:18:58.726290
+47643580,Show HN: Uncompressed – Self-hosted Netflix alternative at 60 Mbps instead of 15,entertainment,5,0,lackoftactics,2026-04-05T22:18:59.767002
+47606560,"Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",entertainment,152,117,kasparnoor,2026-04-05T22:19:03.723447
+47646553,The SimCity Planning Commission Handbook (2024),entertainment,5,0,Tomte,2026-04-05T22:19:12.635890
+47621438,Show HN: Made a little Artemis II tracker,entertainment,151,57,codingmoh,2026-04-05T22:19:17.321751
+47632692,Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion,entertainment,21,14,slp3r,2026-04-05T22:19:18.631188
+47631030,Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment,entertainment,35,23,sagirodin,2026-04-05T22:19:23.802513
+47612601,"Sweden goes back to basics, swapping screens for books in the classroom",entertainment,898,432,novaRom,2026-04-05T22:19:48.322816
+47612277,Almighty Lisp: Lisp and Emacs Essentials Book,entertainment,75,4,nemoniac,2026-04-05T22:19:57.248165
+47589856,Show HN: Postgres extension for BM25 relevance-ranked full-text search,entertainment,202,56,tjgreen,2026-04-05T22:20:02.219944
